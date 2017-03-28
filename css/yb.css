@@ -1,0 +1,19 @@
+.navbarlogo{
+  height: 40px;
+}
+
+iframe {
+  vertical-align: middle;
+}
+
+
+
+.img-responsive,
+.thumbnail > iframe,
+.thumbnail a > iframe,
+.carousel-inner > .item > iframe,
+.carousel-inner > .item > a > iframe{
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
