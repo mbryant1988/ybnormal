@@ -17,3 +17,8 @@ iframe {
   max-width: 100%;
   height: auto;
 }
+
+#mainNav{
+  color: black;
+  background-color: black;
+}
